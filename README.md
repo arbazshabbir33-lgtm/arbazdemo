@@ -1,4 +1,4 @@
 # arbazdemo
 This is my first Git Repository.
 <br>
-Author _ Arbaz Shabbir arbaz 
+Author _ Arbaz Shabbir
